@@ -44,7 +44,7 @@ zalo-bot/
 ├── tsconfig.json               # Cấu hình TypeScript độc lập
 └── README.md                   # Tài liệu hướng dẫn sử dụng và triển khai
 ```
-
+   
 ---
 
 ## 🚀 Hướng Dẫn Cài Đặt & Chạy Nhanh
